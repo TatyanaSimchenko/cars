@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cars/static/css/main.6b850179.css",
+    "main.js": "/cars/static/js/main.3888fa34.js",
+    "static/media/drive.png": "/cars/static/media/drive.6bd20e182296ea68fb9b.png",
+    "index.html": "/cars/index.html",
+    "main.6b850179.css.map": "/cars/static/css/main.6b850179.css.map",
+    "main.3888fa34.js.map": "/cars/static/js/main.3888fa34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b850179.css",
+    "static/js/main.3888fa34.js"
+  ]
+}
